@@ -1,2 +1,72 @@
-# Study-of-U.S-Retail-Market
-This project presents a comprehensive customer segmentation and strategic marketing analysis of the U.S. Mall Retail Market, leveraging RFM modeling, Pareto insights, and demographic profiling. Built using Power BI, it explores how traditional shopping malls can adapt to shifting consumer behavior in the age of e-commerce.
+# A Comparative Study of Customer Segmentation and Marketing Strategies of U.S Retail Market
+
+## Project Overview
+
+**USMall_AnalyticsPlaybook** is a strategic data analytics case study focused on customer segmentation and targeted marketing strategies for the U.S. mall retail market. Built using **Power BI**, this project explores how traditional shopping malls can adapt to evolving consumer behavior in the age of e-commerce by leveraging RFM modeling, Pareto analysis, and demographic insights.
+
+## *This project is my original work, developed as part of my college capstone in Business Analytics.*
+
+---
+
+## Objectives
+
+- Analyze customer behavior across age, gender, and payment preferences
+- Segment customers using RFM (Recency, Frequency, Monetary) metrics
+- Identify high-value segments and churn risks
+- Apply Pareto principles to uncover revenue concentration
+- Recommend actionable strategies to boost loyalty and lifetime value
+- Explore conversion opportunities from non-retail footfall (food courts, play zones)
+
+---
+
+## Key Insights
+
+- **60% of customers** still prefer offline shopping for Clothing, Shoes, and Technology
+- **Revenue is concentrated** among fewer high-value customers, especially in the Consumer segment
+- **Female customers** contribute over **60% of total revenue**, with higher transaction volumes
+- **Cash dominates** as the preferred payment method, but Credit Card users show higher revenue per transaction
+- **Shopping Mall A** leads in sales, indicating strong offline engagement
+- **Food courts and entertainment zones** present untapped conversion potential
+
+---
+
+## Strategic Recommendations
+
+- Implement **RFM-based loyalty programs** for recent and high-value customers
+- Use **geo-targeted promotions** and **cross-zone bundling** to convert leisure visitors
+- Offer **exclusive offline benefits** and personalized campaigns to reduce churn
+- Optimize **payment incentives** to encourage high-margin transactions
+- Monitor **operational efficiency** in underperforming malls to manage costs
+
+---
+
+## Tools & Techniques
+
+- **Power BI** for dashboard design and storytelling
+- **RFM Segmentation** for customer profiling
+- **Pareto Analysis** for revenue concentration
+- **Demographic & Behavioral Analysis** for strategic targeting
+
+---
+
+## Files Included
+
+- `customer_segmentation_analysis.csv` – Raw dataset used for analysis
+- Power BI dashboard visuals (uploaded separately)
+- Executive summary and key insights embedded in dashboard
+
+---
+
+## About Me
+
+I'm **Nikita Albela**, an aspiring data analyst transitioning from 5.5 years in recruitment, now specializing in business analytics and dashboard storytelling. This project reflects my passion for turning data into strategic insights and crafting narratives that drive business decisions.
+
+---
+
+## 📬 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/nikita-albela)  
+- [GitHub Portfolio](https://github.com/nikitaalbela)  
+- Email: nikitaalbela31@gmail.com
+
+---
