@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**USMall_AnalyticsPlaybook** is a strategic data analytics case study focused on customer segmentation and targeted marketing strategies for the U.S. mall retail market. Built using **Power BI**, this project explores how traditional shopping malls can adapt to evolving consumer behavior in the age of e-commerce by leveraging RFM modeling, Pareto analysis, and demographic insights.
+This analysis is a strategic data analytics case study focused on customer segmentation and targeted marketing strategies for the U.S. mall retail market. Built using **Power BI**, this project explores how traditional shopping malls can adapt to evolving consumer behavior in the age of e-commerce by leveraging RFM modeling, Pareto analysis, and demographic insights.
 
 ## *This project is my original work, developed as part of my college capstone for MBA specializing in Business Analytics.*
 
@@ -37,6 +37,13 @@
 - Offer **exclusive offline benefits** and personalized campaigns to reduce churn
 - Optimize **payment incentives** to encourage high-margin transactions
 - Monitor **operational efficiency** in underperforming malls to manage costs
+- E-commerce has transformed retail, but strategies vary across sectors.
+
+Amazon mastered large-scale warehouse logistics, while Zepto and Blinkit built dense dark-store networks to handle perishables and ensure speed. Walmart, meanwhile, balances scale and freshness through automated and store-level fulfillment.
+
+These models show that retail can’t rely on a one-size-fits-all approach success depends on blending centralized warehouses with localized delivery.
+
+I believe collaboration between e-commerce giants and local retailers could further cut warehouse costs and enable faster, more sustainable fulfillment.
 
 ---
 
